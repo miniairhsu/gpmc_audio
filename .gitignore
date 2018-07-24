@@ -1,0 +1,10 @@
+*.cmd
+*.ko 
+*.o
+*.exe
+*.symvers
+*.order
+*_fifo.c
+*.mod
+logibone_fifo.mod.c
+logibone_fifo.c 
